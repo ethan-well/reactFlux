@@ -8,4 +8,4 @@ this is a demo use to learn react flux
 - ```npm install```
 - ```webpack-dev-server```
 
-# open ```http://localhost:9000/``` in your browsers
+# Your browsers will open automatically, and you will see:
