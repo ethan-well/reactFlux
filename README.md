@@ -1,5 +1,11 @@
 # Description
 this is a demo use to learn react flux
-https://github.com/mocheng/react-and-redux/tree/master/chapter-03
 
 # Run it in location
+- ```git clone https://github.com/wewin11235/reactFlux.git```
+- ```cd reactFlux```
+- ```npm init```
+- ```npm install```
+- ```webpack-dev-server```
+
+# open ```http://localhost:9000/``` in your browsers
