@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Headr from './components/header.js';
+import Counter from './components/Counter.js';
 
 ReactDOM.render(
-  <Headr />,
+  <Counter />,
   document.getElementById('root')
 );
